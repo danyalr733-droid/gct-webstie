@@ -1,4 +1,7 @@
 
+.indexbody{
+        overflow: hidden;
+        }
 .card-text:hover{
             color: rgb(192, 0, 0);
         }
